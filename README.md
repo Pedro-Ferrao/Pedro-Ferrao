@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 - 💻 Atualmente trabalhando em projetos de **Front-end**.
 - 🌱 Estudando e aprimorando conhecimentos em **Next.js, TypeScript e Node.js**.
 - 🛠️ Focado em boas práticas de versionamento e deploy contínuo.
-- 📫 Como me encontrar: **ferraopedro10@gmail.com**
+- 📫 Como me encontrar: **ferraopedro10@gmail.com** 
 
 ---
 
